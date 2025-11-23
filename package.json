@@ -1,0 +1,13 @@
+{
+  "name": "todo-supabase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple To-Do Reminder app frontend with Supabase backend",
+  "scripts": {
+    "create-table": "node create_table.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "pg": "^8.0.0"
+  }
+}

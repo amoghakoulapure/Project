@@ -1,0 +1,7 @@
+# Local environment and config
+.env
+config.js
+
+# Node / editor
+node_modules/
+.DS_Store
